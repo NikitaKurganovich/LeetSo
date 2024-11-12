@@ -1,7 +1,7 @@
 package dev.babananick.leet.task664
 
 /**
- * 664. Strange Printer. Hard
+ * 664 Strange Printer. Hard
  *
  * [LeetCode](https://leetcode.com/problems/strange-printer/)
  *

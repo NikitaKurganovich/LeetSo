@@ -6,7 +6,6 @@ kotlin{
     jvm("desktop")
 
     sourceSets{
-        val desktopMain by getting
         val desktopTest by getting
 
         desktopTest.dependencies {
