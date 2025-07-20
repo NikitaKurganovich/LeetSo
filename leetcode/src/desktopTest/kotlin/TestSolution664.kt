@@ -1,11 +1,9 @@
-package task664
-
-import dev.babananick.leet.task664.Solution664
+import dev.babananick.leet.Solution664
 import kotlin.test.BeforeTest
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-class TestSolution {
+class TestSolution664 {
 
     private lateinit var solution: Solution664
 

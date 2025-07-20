@@ -1,6 +1,4 @@
-package task2027
-
-import dev.babananick.leet.task2027.Solution2027
+import dev.babananick.leet.Solution2027
 import kotlin.test.BeforeTest
 import kotlin.test.Test
 import kotlin.test.assertEquals

@@ -1,4 +1,4 @@
-package dev.babananick.leet.task2027
+package dev.babananick.leet
 
 /**
  * 2027 Minimum Moves to Convert String. Easy
@@ -37,5 +37,3 @@ class Solution2027 {
         return stepCount
     }
 }
-
-

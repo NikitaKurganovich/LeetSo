@@ -1,4 +1,6 @@
-package dev.babananick.leet.task664
+package dev.babananick.leet
+
+import kotlin.text.iterator
 
 /**
  * 664 Strange Printer. Hard
@@ -71,4 +73,8 @@ class Solution664 {
         }
         return list
     }
+}
+
+fun main() {
+    println(Solution664().strangePrinter("sfsdfsd"))
 }
